@@ -1,12 +1,1 @@
-﻿Introduzca el texto: 
-Es el control periódico de todos los archivos, estructuras, ficheros, seguridad, y demás aspectos clave de tu web.
-
-Usted ingreso el siguinte texto: 
-Es el control peri�dico de todos los archivos, estructuras, ficheros, seguridad, y dem�s aspectos clave de tu web.
-
-Total palabras: 18
-
-Introduzca la palabra que desea buscar: 
-web.
-
-La palabra web. se repite 1 veces en el texto ingresado
+HOLA MUNDO
